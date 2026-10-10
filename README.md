@@ -4,6 +4,12 @@
 
 <p align="center">HTML · CSS · JavaScript</p>
 
+## Live demo
+
+[Open the MainCrafts multi-page demo](https://kalyan870.github.io/maincrafts-site/)
+
+This is a static internship exercise. Example contact information is part of the sample content; its contact form has no backend and does not submit messages.
+
 ## Project overview
 
 The site is organized into three pages: home, about, and contact. Shared styles live in `css/style.css`, and browser interactions live in `js/script.js`.
