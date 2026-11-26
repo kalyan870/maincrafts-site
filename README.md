@@ -16,6 +16,11 @@ The site is organized into three pages: home, about, and contact. Shared styles 
 
 ## Architecture
 
+![maincrafts-site architecture map](docs/images/maincrafts-site-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/maincrafts-site-architecture.svg)
+
+
 ```mermaid
 flowchart LR
   B[Browser] --> I[index.html]
